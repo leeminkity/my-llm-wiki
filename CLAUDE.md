@@ -60,6 +60,10 @@ my-llm-wiki/
 └── templates/         ← 페이지 종류별 서식
 ```
 
+옵시디언 그래프의 색은 폴더로 정해진다 (`.obsidian/graph.json`).
+노랑=목차·전체 그림·일지, 회색=sources, 초록=concepts, 파랑=tools, 주황=cases, 보라=analyses, 빨강=content.
+그래서 페이지는 반드시 종류에 맞는 폴더에 넣는다. 새 폴더를 만들면 색 설정과 `wiki/index.md`의 색깔 안내도 같이 고친다.
+
 ---
 
 ## 3. 작업 방식
