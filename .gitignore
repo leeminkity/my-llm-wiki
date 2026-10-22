@@ -1,0 +1,13 @@
+# 원본 자료는 내 컴퓨터에만 둔다 (저작권·비공개 정보 보호)
+raw/*
+!raw/README.md
+
+# 옵시디언 개인 화면 설정
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+
+# 운영체제가 만드는 파일
+.DS_Store
+Thumbs.db
+desktop.ini
